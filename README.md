@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amir elyasi
-- 👀 I’m interested in football and game 🎮 
-- 🌱 I’m currently learning programming 
-- 💞️ Interested in building a bright future
+- 👀 I’m Interested in working and learning more. 
+- 🌱 I’m currently learning programming. 
+- 💞️ Interested in building a bright future.
 
 
 <!---
