@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amir elyasi
-- 👀 I’m Interested in working and learning more. 
+- 👀 I’m Interested in progress and learning more. 
 - 🌱 I’m currently learning programming. 
 - 💞️ Interested in building a bright future.
 
